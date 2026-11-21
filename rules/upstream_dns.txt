@@ -30675,6 +30675,7 @@ https://dns.google/dns-query
 [/echo-isoftstone.com/]https://dns.alidns.com/dns-query
 [/echo188.com/]https://dns.alidns.com/dns-query
 [/echoing.tech/]https://dns.alidns.com/dns-query
+[/echooai.com/]https://dns.alidns.com/dns-query
 [/echoteen.com/]https://dns.alidns.com/dns-query
 [/echovelle.com/]https://dns.alidns.com/dns-query
 [/echu-cable.com/]https://dns.alidns.com/dns-query
@@ -32922,6 +32923,7 @@ https://dns.google/dns-query
 [/fayufaguo.com/]https://dns.alidns.com/dns-query
 [/fazhi12368.com/]https://dns.alidns.com/dns-query
 [/fazhijx.com/]https://dns.alidns.com/dns-query
+[/fazhipro.com/]https://dns.alidns.com/dns-query
 [/fazz.fun/]https://dns.alidns.com/dns-query
 [/fb32dc52302e6b9b.com/]https://dns.alidns.com/dns-query
 [/fb46cd5483f029aa.com/]https://dns.alidns.com/dns-query
@@ -76544,6 +76546,7 @@ https://dns.google/dns-query
 [/saaas.com/]https://dns.alidns.com/dns-query
 [/saagasports.com/]https://dns.alidns.com/dns-query
 [/saasddos.com/]https://dns.alidns.com/dns-query
+[/saasfz.com/]https://dns.alidns.com/dns-query
 [/saaslb.com/]https://dns.alidns.com/dns-query
 [/saasops.tech/]https://dns.alidns.com/dns-query
 [/saasruanjian.com/]https://dns.alidns.com/dns-query
